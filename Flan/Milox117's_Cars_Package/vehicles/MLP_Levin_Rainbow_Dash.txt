@@ -1,0 +1,64 @@
+//Naming
+Name Levin "Dash"
+ShortName MLP_Levin
+//Visuals
+Icon Levin
+Texture levin
+Model motorsport.Levin
+RotateWheels false
+
+//Third Person Camera Distance
+CameraDistance 5.0
+
+//Driver and passenger positions
+Driver 0 -6 8
+RotatedDriverOffset 0 0 0
+Passengers 0
+
+
+//Inventory Slots
+CargoSlots 36
+ShellSlots 0
+FuelTankSize 1000
+
+//Movement
+MaxThrottle 0.1
+MaxNegativeThrottle 0.1
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Drag 1.0
+Mass 1.0
+MomentOfInertia 10.0
+Bounciness 0.3
+WheelRadius 0.5
+FourWheelDrive true
+SquashMobs true
+WheelPosition 0 -27 -8 -19
+WheelPosition 1 -28 -8 19
+WheelPosition 2 25 -8 19
+WheelPosition 3 25 -8 -19
+
+
+//Weapons
+ShootDelay 999
+ShellDelay 999
+
+//Sounds
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+
+//Recipe
+
+AddDye 10 red
+AddDye 10 white
+
+//Health and collision
+
+BulletDetection 5
+
+//Size Multiplier; scales up the model
+ModelScale 1

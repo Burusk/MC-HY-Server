@@ -1,0 +1,889 @@
+[
+  {
+    "fluidstack": {
+      "name": "lava"
+    },
+    "energyValue": 0.064
+  },
+  {
+    "fluidstack": {
+      "name": "milk"
+    },
+    "energyValue": 0.064
+  },
+  {
+    "fluidstack": {
+      "name": "water"
+    },
+    "energyValue": 0.001
+  },
+  {
+    "orestack": {
+      "name": "cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "dustRedstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBlack"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBlue"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeBrown"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeCyan"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeGray"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeGreen"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLightBlue"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLightGray"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeLime"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeMagenta"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeOrange"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyePink"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyePurple"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeRed"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeWhite"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "dyeYellow"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "orestack": {
+      "name": "gemDiamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "gemEmerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "gemLapis"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "orestack": {
+      "name": "gemQuartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "ingotGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "ingotIron"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "logWood"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "oreCoal"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "oreDiamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "oreEmerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "orestack": {
+      "name": "oreGold"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "oreIron"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "oreLapis"
+    },
+    "energyValue": 864.0
+  },
+  {
+    "orestack": {
+      "name": "oreQuartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "orestack": {
+      "name": "oreRedstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "orestack": {
+      "name": "plankWood"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "orestack": {
+      "name": "record"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "orestack": {
+      "name": "sand"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "sandstone"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "slabWood"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "slimeball"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "orestack": {
+      "name": "stairWood"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "orestack": {
+      "name": "stickWood"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "orestack": {
+      "name": "stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "treeLeaves"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "orestack": {
+      "name": "treeSapling"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:grass"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dirt",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sand",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gravel"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glass",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sandstone",
+      "metaValue": 32767
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:web"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:tallgrass",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:deadbush"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:yellow_flower"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:red_flower",
+      "metaValue": 32767
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brown_mushroom"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:red_mushroom"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mossy_cobblestone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:obsidian"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snow_layer"
+    },
+    "energyValue": 0.125
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ice"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cactus"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:pumpkin"
+    },
+    "energyValue": 144.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherrack"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:soul_sand"
+    },
+    "energyValue": 49.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:stonebrick",
+      "metaValue": 32767
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:vine"
+    },
+    "energyValue": 8.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:mycelium"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:waterlily"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:end_stone"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil",
+      "metaValue": 1
+    },
+    "energyValue": 5290.667
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:anvil",
+      "metaValue": 2
+    },
+    "energyValue": 2645.333
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:hardened_clay"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:double_plant",
+      "metaValue": 32767
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:apple"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal",
+      "metaValue": 1
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_ingot"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_ingot"
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:string"
+    },
+    "energyValue": 12.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:feather"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gunpowder"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat_seeds"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:flint"
+    },
+    "energyValue": 4.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:porkchop"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_porkchop"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:saddle"
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:snowball"
+    },
+    "energyValue": 0.25
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:brick"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay_ball"
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:reeds"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:egg"
+    },
+    "energyValue": 32.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glowstone_dust"
+    },
+    "energyValue": 384.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:fish",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_fished",
+      "metaValue": 32767
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 2
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 3
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 4
+    },
+    "energyValue": 864.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 5
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 6
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bone"
+    },
+    "energyValue": 48.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:melon"
+    },
+    "energyValue": 16.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:beef"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_beef"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:chicken"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_chicken"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:rotten_flesh"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ender_pearl"
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:blaze_rod"
+    },
+    "energyValue": 1536.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ghast_tear"
+    },
+    "energyValue": 4096.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_wart"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:spider_eye"
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:emerald"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carrot"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:baked_potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:poisonous_potato"
+    },
+    "energyValue": 24.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:nether_star"
+    },
+    "energyValue": 24576.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherbrick"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:quartz"
+    },
+    "energyValue": 256.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust"
+    },
+    "energyValue": 1.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 1
+    },
+    "energyValue": 64.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 2
+    },
+    "energyValue": 2048.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 3
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shardMinium"
+    },
+    "energyValue": 8192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 64
+    },
+    "energyValue": 128.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 65
+    },
+    "energyValue": 192.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 66
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 67
+    },
+    "energyValue": 512.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 68
+    },
+    "energyValue": 1024.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 69
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 70
+    },
+    "energyValue": 16384.0
+  },
+  {
+    "itemstack": {
+      "name": "ThermalFoundation:material",
+      "metaValue": 1024
+    },
+    "energyValue": 1536.0
+  }
+]

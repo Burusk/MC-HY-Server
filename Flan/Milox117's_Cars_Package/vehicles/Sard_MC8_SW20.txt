@@ -1,0 +1,81 @@
+//Naming
+Name Sard MC8R
+ShortName Toyota_Sard_MC8R
+
+//Visuals
+Icon Item_Sard_MC8R
+Texture Sard_MC8R
+Model motorsport.MC8R
+RotateWheels false
+
+//Third Person Camera Distance
+CameraDistance 5.0
+
+//Driver and passenger positions
+Driver 0 -6 -8
+RotatedDriverOffset 0 0 0
+Passengers 2
+Passenger 1 0 -6 8 core
+Passenger 2 -16 6 0 core -60 60 -30 60 browning Browning
+
+//Inventory Slots
+CargoSlots 36
+ShellSlots 0
+FuelTankSize 1000
+
+//Movement
+MaxThrottle 0.1
+MaxNegativeThrottle 0.1
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Drag 1.0
+Mass 1.0
+MomentOfInertia 10.0
+Bounciness 0.3
+WheelRadius 0.5
+FourWheelDrive true
+SquashMobs true
+WheelPosition 0 -31 -8 -19
+WheelPosition 1 -31 -8 19
+WheelPosition 2 25 -8 19
+WheelPosition 3 25 -8 -19
+
+
+//Weapons
+ShootDelay 999
+ShellDelay 999
+
+//Sounds
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+//Recipe
+SetupPart core 100 -38 -6 -14 17 13 28
+SetupPart core 100 17 -7 -14 17 13 28
+SetupPart core 100 -48 -6 -20 9 13 40
+SetupPart core 100 34 -7 -20 8 11 40
+SetupPart frontLeftWheel 100 19 -9 -20 12 12 5
+SetupPart frontRightWheel 100 19 -9 15 12 12 5
+SetupPart backLeftWheel 100 -37 -9 -20 12 12 5
+SetupPart backRightWheel 100 -37 -9 15 12 12 5
+
+AddDye 10 red
+AddDye 10 white
+
+//Health and collision
+SetupPart core 100 -38 -6 -14 17 13 28
+SetupPart core 100 17 -7 -14 17 13 28
+SetupPart core 100 -48 -6 -20 9 13 40
+SetupPart core 100 34 -7 -20 8 11 40
+SetupPart frontLeftWheel 100 19 -9 -20 12 12 5
+SetupPart frontRightWheel 100 19 -9 15 12 12 5
+SetupPart backLeftWheel 100 -37 -9 -20 12 12 5
+SetupPart backRightWheel 100 -37 -9 15 12 12 5
+
+BulletDetection 5
+
+//Size Multiplier; scales up the model
+ModelScale 1

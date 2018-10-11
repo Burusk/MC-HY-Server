@@ -1,0 +1,220 @@
+[
+  {
+    "itemstack": {
+      "name": "minecraft:stone"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dirt"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sapling"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:sand"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:log"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:log",
+      "metaValue": 1
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glass"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wool"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bookshelf"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:obsidian"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cactus"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:pumpkin"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:netherrack"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:soul_sand"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal_block"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:apple"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:arrow"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_ingot"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_ingot"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:string"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:feather"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gunpowder"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:wheat"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:flint"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cooked_porkchop"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:lava_bucket"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:leather"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay_ball"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:reeds"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:glowstone_dust"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:dye",
+      "metaValue": 4
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:bone"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:rotten_flesh"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:ender_pearl"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:spider_eye"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:carrot"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:name_tag"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "chisel:diorite"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "TConstruct:materials",
+      "metaValue": 2
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ProjRed|Core:projectred.core.part"
+    }
+  }
+]

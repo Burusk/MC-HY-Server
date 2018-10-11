@@ -1,0 +1,471 @@
+{
+	"300ZX_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:300ZX_engine" ]
+	},
+
+	"300ZX_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:300ZX_start" ]
+	},
+
+	"993GT_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:993GT_engine" ]
+	},
+
+	"993GT_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:993GT_start" ]
+	},
+
+	"Atlantique": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Atlantique" ]
+	},
+
+	"Atlantique_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Atlantique_engine" ]
+	},
+
+	"Atlantique_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Atlantique_First" ]
+	},
+
+	"Atlantique_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Atlantique_Second" ]
+	},
+
+	"backfire": {
+		"category" : "player",
+		"sounds" : [ "flansmod:backfire" ]
+	},
+
+	"Clio_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Clio_Engine" ]
+	},
+
+	"Clio_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Clio_Start" ]
+	},
+
+	"Cultus_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Cultus_engine" ]
+	},
+
+	"Cultus_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Cultus_start" ]
+	},
+
+	"Eclipse_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Eclipse_engine" ]
+	},
+
+	"Eclipse_first": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Eclipse_first" ]
+	},
+
+	"Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Engine" ]
+	},
+
+	"EspaceF1_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:EspaceF1_Engine" ]
+	},
+
+	"EspaceF1_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:EspaceF1_Start" ]
+	},
+
+	"Espace_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Espace_First" ]
+	},
+
+	"Espace_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Espace_Second" ]
+	},
+
+	"first": {
+		"category" : "player",
+		"sounds" : [ "flansmod:first" ]
+	},
+
+	"fourth_cruise": {
+		"category" : "player",
+		"sounds" : [ "flansmod:fourth_cruise" ]
+	},
+
+	"FTO_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:FTO_First" ]
+	},
+
+	"FTO_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:FTO_Second" ]
+	},
+
+	"GTRZexel_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GTRZexel_First" ]
+	},
+
+	"GTRZexel_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GTRZexel_Second" ]
+	},
+
+	"GTR_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GTR_First" ]
+	},
+
+	"GTR_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:GTR_Second" ]
+	},
+
+	"HondaS_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:HondaS_First" ]
+	},
+
+	"HondaS_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:HondaS_Second" ]
+	},
+
+	"Honda_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Honda_First" ]
+	},
+
+	"Honda_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Honda_Second" ]
+	},
+
+	"ImprezaLM_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ImprezaLM_First" ]
+	},
+
+	"ImprezaLM_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:ImprezaLM_Second" ]
+	},
+
+	"Impreza_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Impreza_Engine" ]
+	},
+
+	"Impreza_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Impreza_Start" ]
+	},
+
+	"Lancer_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Lancer_First" ]
+	},
+
+	"Lancer_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Lancer_Second" ]
+	},
+
+	"lolone": {
+		"category" : "player",
+		"sounds" : [ "flansmod:lolone" ]
+	},
+
+	"loltwo": {
+		"category" : "player",
+		"sounds" : [ "flansmod:loltwo" ]
+	},
+
+	"M12A_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M12A_engine" ]
+	},
+
+	"M12A_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M12A_start" ]
+	},
+
+	"M12_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M12_engine" ]
+	},
+
+	"M12_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M12_start" ]
+	},
+
+	"M3GTR_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M3GTR_engine" ]
+	},
+
+	"M3GTR_first": {
+		"category" : "player",
+		"sounds" : [ "flansmod:M3GTR_first" ]
+	},
+
+	"Mazda_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mazda_First" ]
+	},
+
+	"Mazda_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Mazda_Second" ]
+	},
+
+	"MCR_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MCR_First" ]
+	},
+
+	"MCR_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MCR_Second" ]
+	},
+
+	"MR_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MR_First" ]
+	},
+
+	"MR_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:MR_Second" ]
+	},
+
+	"Nissan_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Nissan_First" ]
+	},
+
+	"Nissan_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Nissan_Second" ]
+	},
+
+	"NSX_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:NSX_Engine" ]
+	},
+
+	"NSX_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:NSX_Start" ]
+	},
+
+	"R32_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R32_Engine" ]
+	},
+
+	"R32_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R32_Start" ]
+	},
+
+	"R33_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R33_Engine" ]
+	},
+
+	"R33_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R33_Start" ]
+	},
+
+	"R34_Engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R34_Engine" ]
+	},
+
+	"R34_Start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R34_Start" ]
+	},
+
+	"RS200_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RS200_engine" ]
+	},
+
+	"RS200_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RS200_start" ]
+	},
+
+	"RX7Aspec_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RX7Aspec_engine" ]
+	},
+
+	"RX7Aspec_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:RX7Aspec_start" ]
+	},
+
+	"R_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R_First" ]
+	},
+
+	"R_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:R_Second" ]
+	},
+
+	"Sard_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Sard_engine" ]
+	},
+
+	"Sard_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Sard_start" ]
+	},
+
+	"second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:second" ]
+	},
+
+	"Silvia_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Silvia_First" ]
+	},
+
+	"Silvia_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Silvia_Second" ]
+	},
+
+	"SprinterGT_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SprinterGT_First" ]
+	},
+
+	"SprinterGT_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SprinterGT_Second" ]
+	},
+
+	"Sprinter_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Sprinter_First" ]
+	},
+
+	"Sprinter_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Sprinter_Second" ]
+	},
+
+	"STORM_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:STORM_engine" ]
+	},
+
+	"STORM_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:STORM_start" ]
+	},
+
+	"Strueno_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Strueno_First" ]
+	},
+
+	"Strueno_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Strueno_Second" ]
+	},
+
+	"Supra_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Supra_engine" ]
+	},
+
+	"Supra_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Supra_First" ]
+	},
+
+	"Supra_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Supra_Second" ]
+	},
+
+	"Supra_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Supra_start" ]
+	},
+
+	"Supra_Targa_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Supra_Targa_First" ]
+	},
+
+	"Supra_Targa_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Supra_Targa_Second" ]
+	},
+
+	"SX_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:SX_First" ]
+	},
+
+	"TRD_LM_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TRD_LM_First" ]
+	},
+
+	"TRD_LM_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:TRD_LM_Second" ]
+	},
+
+	"Veyron_First": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Veyron_First" ]
+	},
+
+	"Veyron_Second": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Veyron_Second" ]
+	},
+
+	"Viper_engine": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Viper_engine" ]
+	},
+
+	"Viper_start": {
+		"category" : "player",
+		"sounds" : [ "flansmod:Viper_start" ]
+	}
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "itemstack": {
+      "name": "minecraft:dirt"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cobblestone"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:log",
+      "metaValue": 2
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:cactus"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:diamond"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:iron_ingot"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:gold_ingot"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:redstone"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:clay_ball"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:reeds"
+    }
+  }
+]
